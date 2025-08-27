@@ -1,0 +1,10 @@
+## Interface: 110002
+## Title: WeakAuras: Fire Mage Helper
+## Author: Antern
+## Version: @project-version@
+## Notes: test
+## X-Category: Interface Enhancements
+## Dependencies: WeakAuras, WeakAurasOptions
+
+Core.lua
+Options.lua
