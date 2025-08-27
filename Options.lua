@@ -1,8 +1,8 @@
-local TYPE = "FireMageHelper"
+local TYPE = "fire-mage-helper"
 
 local function createOptions(id, region)
   return {
-    __title = "FireMageHelper",
+    __title = "fire-mage-helper",
     text = {
       type = "input",
       name = "Text",
@@ -66,5 +66,5 @@ local function createOptions(id, region)
 end
 
 if WeakAuras and WeakAuras.RegisterRegionOptions then
-  WeakAuras.RegisterRegionOptions(TYPE, createOptions, "Interface\\Icons\\Ability_Leap", "FireMageHelper")
+  WeakAuras.RegisterRegionOptions(TYPE, createOptions, "Interface\\Icons\\Ability_Leap", "fire-mage-helper")
 end
