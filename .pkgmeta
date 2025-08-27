@@ -1,0 +1,8 @@
+package-as: WeakAuras-FireMageHelper
+enable-nolib-creation: no
+
+ignore:
+  - .git
+  - .github
+  - README.md
+  - LICENSE
